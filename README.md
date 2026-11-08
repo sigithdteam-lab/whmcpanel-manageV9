@@ -1,3 +1,5 @@
+changelog: bug and patching, tweak code
+
 whmcpanel.sh adalah skrip Bash administrasi server WHM/cPanel yang dikhususkan untuk root user (/root/user.txt, /scripts/*, /var/cpanel/*). Skrip ini menggabungkan manajemen akun, keamanan (webshell/rootkit/ransomware), monitoring, maintenance, tuning, dan utility dalam satu antarmuka menu interaktif berwarna.
 
 ---
